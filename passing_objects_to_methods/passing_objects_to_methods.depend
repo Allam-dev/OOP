@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624439767 source:c:\users\allam\desktop\oop(c++)\passing_objects_to_methods\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1624439430 c:\users\allam\desktop\oop(c++)\passing_objects_to_methods\include\rectangle.h
+
+1624439708 source:c:\users\allam\desktop\oop(c++)\passing_objects_to_methods\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+

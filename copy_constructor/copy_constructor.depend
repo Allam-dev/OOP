@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624380666 source:c:\users\allam\desktop\oop(c++)\copy_constructor\src\dog.cpp
+	"Dog.h"
+
+1624380610 c:\users\allam\desktop\oop(c++)\copy_constructor\include\dog.h
+	<string>
+

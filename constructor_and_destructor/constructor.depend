@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624107301 source:c:\users\allam\desktop\oop(c++)\constructor\main.cpp
+	<iostream>
+	"Car.h"
+
+1624107244 c:\users\allam\desktop\oop(c++)\constructor\include\car.h
+	"string"
+
+1624108428 source:c:\users\allam\desktop\oop(c++)\constructor\src\car.cpp
+	"Car.h"
+	<iostream>
+

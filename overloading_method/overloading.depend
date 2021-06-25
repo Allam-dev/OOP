@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624265135 source:c:\users\allam\desktop\oop(c++)\overloading\main.cpp
+	<iostream>
+	"Calculator.h"
+
+1624265185 c:\users\allam\desktop\oop(c++)\overloading\include\calculator.h
+	<string>
+
+1624265195 source:c:\users\allam\desktop\oop(c++)\overloading\src\calculator.cpp
+	"Calculator.h"
+	<string>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1624612347 source:c:\users\allam\desktop\oop(c++)\static_class_members\src\player.cpp
+	"Player.h"
+	<string>
+
+1624612183 c:\users\allam\desktop\oop(c++)\static_class_members\include\player.h
+	<string>
+
+1624612883 source:c:\users\allam\desktop\oop(c++)\static_class_members\main.cpp
+	<iostream>
+	"Player.h"
+	"Calculator.h"
+
+1624612623 source:c:\users\allam\desktop\oop(c++)\static_class_members\src\calculator.cpp
+	"Calculator.h"
+
+1624612719 c:\users\allam\desktop\oop(c++)\static_class_members\include\calculator.h
+

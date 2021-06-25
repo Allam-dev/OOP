@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624266765 source:c:\users\allam\desktop\oop(c++)\overloading_constructor\src\cat.cpp
+	"Cat.h"
+	<string>
+	<iostream>
+
+1624266528 c:\users\allam\desktop\oop(c++)\overloading_constructor\include\cat.h
+	<string>
+
