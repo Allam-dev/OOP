@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1624879452 source:/home/allam/Desktop/OOP/operator_overloading/src/Counter.cpp
+	"Counter.h"
+
+1624880133 /home/allam/Desktop/OOP/operator_overloading/include/Counter.h
+	<iostream>
+
+1624911262 source:/home/allam/Desktop/OOP/operator_overloading/main.cpp
+	<iostream>
+	"Counter.h"
+	"Rectangle.h"
+
+1624912417 /home/allam/Desktop/OOP/operator_overloading/include/Rectangle.h
+	<iostream>
+
+1624911537 source:/home/allam/Desktop/OOP/operator_overloading/src/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
