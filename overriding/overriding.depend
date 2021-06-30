@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1625043831 source:/home/allam/Desktop/OOP/overriding/main.cpp
+	<iostream>
+	"Person.h"
+	"Student.h"
+
+1625043030 /home/allam/Desktop/OOP/overriding/include/Person.h
+	<iostream>
+
+1625043326 source:/home/allam/Desktop/OOP/overriding/src/Person.cpp
+	"Person.h"
+	<iostream>
+
+1625043686 /home/allam/Desktop/OOP/overriding/include/Student.h
+	"Person.h"
+	<iostream>
+

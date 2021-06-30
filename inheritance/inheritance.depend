@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1624953189 source:/home/allam/Desktop/OOP/inheritance/main.cpp
+	<iostream>
+	"Doctor.h"
+
+1624954382 /home/allam/Desktop/OOP/inheritance/include/Doctor.h
+	<Human.h>
+	<iostream>
+
+1624953705 /home/allam/Desktop/OOP/inheritance/include/Human.h
+	<iostream>
+
+1624954381 source:/home/allam/Desktop/OOP/inheritance/src/Doctor.cpp
+	"Doctor.h"
+	<iostream>
+
+1624953727 source:/home/allam/Desktop/OOP/inheritance/src/Human.cpp
+	"Human.h"
+
