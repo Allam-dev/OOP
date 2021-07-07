@@ -8,7 +8,12 @@ class Animal{
 
     public:
         Animal(string name):name(name){}
-        virtual void sound(){}
+        //virtual function
+        //virtual void sound(){}
+
+        //pure virtual function
+        //when you use virtual that main this class is abstract
+        virtual void sound() = 0;
 };
 
 class Dog : public Animal{
@@ -29,6 +34,7 @@ class Cat : public Animal{
 
 int main()
 {
+
     Animal* animalPointer;
     Dog dog("pop");
     Cat cat("kitty");
